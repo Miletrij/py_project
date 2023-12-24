@@ -4,3 +4,4 @@ from funcs import minus
 
 summ()
 minus()
+
